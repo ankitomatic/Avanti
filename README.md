@@ -1,2 +1,2 @@
 
-https://auth.avantifellows.org/?sessionId=EnableStudents_6765b2f112e768ec38496c32
+https://docs.google.com/forms/d/e/1FAIpQLScUtOcmIRoUgA8bJuL4uBxOF4LlxzkG9vPRxch2TxD4g-VRvA/viewform?usp=dialog
